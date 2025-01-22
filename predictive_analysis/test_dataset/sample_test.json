@@ -1,0 +1,18 @@
+{
+  "ProductionVolume": 624,
+  "ProductionCost": 13180,
+  "SupplierQuality": 80,
+  "DeliveryDelay": 3,
+  "DefectRate": 2.79,
+  "QualityScore": 97,
+  "MaintenanceHours": 15,
+  "DowntimePercentage": 3.01,
+  "InventoryTurnover": 7.32,
+  "StockoutRate": 0.08,
+  "WorkerProductivity": 94.93,
+  "SafetyIncidents": 8,
+  "EnergyConsumption": 2440,
+  "EnergyEfficiency": 0.16,
+  "AdditiveProcessTime": 4.5,
+  "AdditiveMaterialCost": 160.14
+}
