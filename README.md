@@ -110,19 +110,32 @@ curl -X POST -H "Content-Type: application/json" -d @test_dataset/sample_test.js
 ---
 
 ## Project Structure:
-predictive_analysis/
+predictive_analysis
+
 │
+
 ├── app.py                # Main Flask app
+
 ├── model.py              # ML model logic
+
 ├── utils.py              # Helper functions
+
 ├── uploads/              # Folder for uploaded datasets
+
 │   └── sample.csv        # Example dataset
+
 ├── test_dataset/         # Folder for dataset used for creation of this project
+
 │   └── manufacturing_defect_dataset.csv        # Example dataset
+
 │   └── sample_test.json        # Example json for predict API
+
 ├── models/               # Folder for saved models
+
 │   └── Stacking_model.pkl # Example saved stacking model
+
 ├── requirements.txt      # Python dependencies
+
 └── README.md             # Documentation
 
 ---
