@@ -142,5 +142,7 @@ predictive_analysis
 
 ## Dataset Information:
 Link: https://www.kaggle.com/datasets/rabieelkharoua/predicting-manufacturing-defects-dataset
+
 DOI: 10.34740/kaggle/dsv/8715500
+
 Citation: Rabie El Kharoua. (2024). 🏭 Predicting Manufacturing Defects Dataset [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DSV/8715500
